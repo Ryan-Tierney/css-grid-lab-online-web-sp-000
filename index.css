@@ -15,4 +15,8 @@ body {
   border: 1px solid black;
 }
 
+.grid-item 1 {
+  background-color: red;
+}
+
 /* add the .bigItem class */
