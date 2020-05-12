@@ -7,6 +7,7 @@ body {
 .grid-container {
   height: 100vh;
   width: 100vw;
+  display: grid;
   /* your properties here */
 }
 
@@ -17,3 +18,6 @@ body {
 
 
 /* add the .bigItem class */
+.bigItem { 
+  
+}
